@@ -20,10 +20,10 @@ A high-performance **domain-specific object tracking system** optimized for **sp
 
 **Model In Action:**
 
-![Demo1](predicted/demo1.gif)  
-![Demo2](predicted/demo2.gif)  
-![Demo3](predicted/demo3.gif)  
-![Demo4](predicted/demo4.gif)
+![Demo1](predicted/demo1.gif)  ![Demo2](predicted/demo2.gif)  
+
+![Demo3](predicted/demo3.gif)  ![Demo4](predicted/demo4.gif)
+
 
 
 ---
