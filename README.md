@@ -154,5 +154,5 @@ MIT License
 - **Author**: sexy-yume  
 - 📧 Email: [amwl1234@gmail.com](mailto:amwl1234@gmail.com)  
 - 🔗 [GitHub Project](https://github.com/sexy-yume/LackTracker)
-
+- Discord : fmasl.
 > ⭐ _If you find this project useful, please give it a star on GitHub!_
